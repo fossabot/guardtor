@@ -19,7 +19,7 @@ $guardTor->init();
 //Your Application Code Here
 
 ```
-## Custom Configuration Setup:
+## Properties Setup:
 
 You can change guardtor properties by calling guardtor properties before calling the init() method
 
@@ -45,41 +45,9 @@ $guardTor->block_request = false;
 //Default is 100 times per minutes
 $guardTor->attempt = 100;
 ```
+## Full Documentation :
 
-## Other Methods:
-
-```php
-/**
- * Validate IPV4 and IPV6 address
- * @param $ip string
- * @return boolean || string
- */
-$guardTor->validate_ip($ip);
-/**
- * Get device ID from every request including device fingerprint
- * @return array
- */
-$guardTor->getDeviceInfo();
-/**
- * Get request IP Address
- * @return string
- */
-$guardTor->get_ip();
-/**
- * Advance cleaning of strings from user inputs
- * @return string
- */
-$guardTor->strip();
-/**
- * Clean html inputs to prevent xss attacks
- * @return string
- */
-$guardTor->filterHtml();
-```
-
-## Documentation :
-
-New features will only be available on our documentation page in the future.
+https://manomitehq.gitbook.io/guardtor/
 
 ## Future Updates :
 

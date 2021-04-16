@@ -2,6 +2,26 @@
   "name": "mitmelon/guardtor",
   "description": "GuardTor is a sophisticated PHP library for protecting your application against bad bots, scrappers, anonymous access from tor browsers, strong user input validations, prevent DDOS Attacks and lots more features to come.",
   "type": "library",
+  "keywords": [
+    "security",
+    "ddos",
+    "validations",
+    "bots",
+    "bad bots",
+    "scrapper",
+    "tor",
+    "anonymous",
+    "spam",
+    "protect",
+    "php",
+    "browser",
+    "sanitize",
+    "clean",
+    "protect",
+    "attack",
+    "tor browser",
+    "guard"
+],
   "license": "MIT",
   "authors": [
     {

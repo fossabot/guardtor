@@ -14,8 +14,7 @@
   "require": {
     "php": ">=5.6",
     "matomo/device-detector": "^3.12",
-    "beberlei/assert": "^3.3",
-    "mitmelon/guardtor": "^1.0"
+    "beberlei/assert": "^3.3"
   },
   "autoload": {
     "psr-4": {

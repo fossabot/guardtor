@@ -1,5 +1,5 @@
 {
-  "name": "mitmelon/guardtor",
+  "name": "mitmelon/guard-tor",
   "description": "GuardTor is a sophisticated PHP library for protecting your application against bad bots, scrappers, anonymous access from tor browsers, strong user input validations, prevent DDOS Attacks and lots more features to come.",
   "type": "library",
   "license": "MIT",

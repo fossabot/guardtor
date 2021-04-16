@@ -12,7 +12,5 @@ If you have any feature you think we need to add or find a bug please kindly mak
 
 You can also support us by buying us a coffee at [https://www.buymeacoffee.com/mitm](https://www.buymeacoffee.com/mitm)
 
-{% page-ref page="./" %}
-
 
 

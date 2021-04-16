@@ -23,7 +23,7 @@ $guardTor->init();
 //Your Application Code Here
 ```
 
-### Custom Configuration Setup:
+### Properties Setup:
 
 You can change GuardTor properties by calling it before calling the init\(\) method.
 
@@ -51,6 +51,8 @@ $guardTor->attempt = 100;
 ```
 
 ### Other Methods:
+
+Methods to use for strings sanitizations, retrieve IP address and get device info.
 
 ```php
 /**

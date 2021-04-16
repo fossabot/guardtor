@@ -9,7 +9,7 @@
       "email": "opensource@manomite.net"
     }
   ],
-  "minimum-stability": "beta",
+  "minimum-stability": "stable",
   "prefer-stable" : true,
   "require": {
     "php": ">=5.6",

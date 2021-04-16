@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "df16b3b119541f6f24b322b45713c8f3",
+    "content-hash": "75c5aae1e969d39e07be1eae00be1be0",
     "packages": [
         {
             "name": "beberlei/assert",
@@ -136,50 +136,6 @@
             "time": "2020-10-25T10:17:36+00:00"
         },
         {
-            "name": "mitmelon/guardtor",
-            "version": "1.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/mitmelon/guardtor.git",
-                "reference": "31f56a479e37deec644f3ebecedf699f64accc43"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/mitmelon/guardtor/zipball/31f56a479e37deec644f3ebecedf699f64accc43",
-                "reference": "31f56a479e37deec644f3ebecedf699f64accc43",
-                "shasum": ""
-            },
-            "require": {
-                "beberlei/assert": "^3.3",
-                "matomo/device-detector": "^3.12",
-                "php": ">=5.6"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "GuardTor\\": [
-                        "src/"
-                    ]
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Manomite",
-                    "email": "opensource@manomite.net"
-                }
-            ],
-            "description": "GuardTor is a sophisticated PHP library for protecting your application against bad bots, scrappers, anonymous access from tor browsers, strong user input validations, prevent DDOS Attacks and lots more features to come.",
-            "support": {
-                "issues": "https://github.com/mitmelon/guardtor/issues",
-                "source": "https://github.com/mitmelon/guardtor/tree/1.0.0"
-            },
-            "time": "2021-04-16T14:17:29+00:00"
-        },
-        {
             "name": "mustangostang/spyc",
             "version": "0.6.3",
             "source": {
@@ -232,7 +188,7 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "beta",
     "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
